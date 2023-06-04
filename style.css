@@ -1,0 +1,57 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title-text {
+    margin: 50px 20px;
+    padding: 7% 15%;
+}
+
+
+#footwear {
+    text-align: center;
+    background-color: lightgreen;
+    padding: 7% 10%;
+}
+
+#contact {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    padding: 10px;
+}
+
+#buy-sell {
+    text-align: center;
+    background-color: lightgreen;
+    margin-top: 0;
+    padding: 2%;
+}
+
+.desc {
+    font-size: 2rem;
+    font-family: var(--bs-body-font-family);
+}
+
+.fwear {
+    padding: 10px;
+    width: 40%;
+}
+
+.buy-sell-btns {
+    margin: 5% 3% 5% 0;
+}
+
+.title-img {
+    width: 40%;
+    padding: 20px;
+    box-shadow: inset;
+}
+.navbar-brand {
+    padding: 5px;
+}
+.contact-img {
+    text-decoration: none;
+}
